@@ -37,7 +37,7 @@ home screen.
 
 ## VII. Screenshots
 
-##VII. About the Developer
+## VII. About the Developer
 
 I am a second year in New Media Interactive Development with experience in JavaScript, C#, HTML, CSS, and Photoshop. 
 Outside of school, I am on the Women's Varsity Swim team, a general member of Women inComputing, and a member of the
