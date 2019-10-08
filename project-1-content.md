@@ -37,7 +37,8 @@ home screen.
 
 ## VII. Screenshots
 
-![alt text](images/Game_Screenshot_Left.jpg "Level Page Screeshot")
+![level](images/Game_Screenshot_Left.jpg)
+![gameplay](media/gameplay.png)
 
 ## VII. About the Developer
 
