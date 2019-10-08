@@ -37,6 +37,8 @@ home screen.
 
 ## VII. Screenshots
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 ## VII. About the Developer
 
 I am a second year in New Media Interactive Development with experience in JavaScript, C#, HTML, CSS, and Photoshop. 
